@@ -2,6 +2,7 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 alias la="ls -a"
 alias ll="ls -la"
+alias lt="ls -t"
 alias up="cd .."
 alias up2="cd ../.."
 alias up3="cd ../../.."
